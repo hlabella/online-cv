@@ -3,7 +3,6 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
@@ -54,7 +53,7 @@ education:
         time: 2013 - 2017
         details: |
           Minor em Ciência da Computação
-          GPA: 3,4/4– Cum Laude
+          GPA: 3,4/4 - Cum Laude
 
 experiences:
     title: Experiência Profissional
@@ -93,7 +92,7 @@ experiences:
         time: 05/2016 - 09/2016
         company: ITAÚ UNIBANCO 
         details: |
-          Estagiário Summer – Área de Produtos Rotativos B2B com foco em Conta Garantida.
+          Estagiário Summer - Área de Produtos Rotativos B2B com foco em Conta Garantida.
           Principais Realizações:
           -	Mapeamento da jornada do cliente de Contas Garantidas, impactando estruturas de áreas e metas.
           -	Análise de variáveis para identificar clientes potenciais para utilização de crédito em conta garantida.
