@@ -8,75 +8,66 @@ sidebar:
 
     # Profile information
     name: Henrique Labella
-    tagline: Data Scientist
+    tagline: Cientista de Dados
     avatar: profile_lab.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: hlabella@umich.edu
     phone: +55 11 94215-2384
     timezone: GMT/UTC - 03:00 hour
-    citizenship: Brazilian and Italian
+    citizenship: Brasileiro e Italiano
     linkedin: hlabella
     github: hlabella
 
     languages:
-      title: Languages
+      title: Idiomas
       info:
-        - idiom: English
-          level: Native
+        - idiom: Inglês
+          level: Nativo
 
-        - idiom: Portuguese
-          level: Native
+        - idiom: Português
+          level: Nativo
 
-        - idiom: Spanish
-          level: Professional
+        - idiom: Espanhol
+          level: Avançado
 
     interests:
-      title: Interests
+      title: Interesses
       info:
-        - item: Music
+        - item: Música
           link:
 
-        - item: Volunteering
+        - item: Voluntáriado
           link:
 
-        - item: Travel
+        - item: Viajar
           link:
 
 career-profile:
-    title: Career Profile
+    title: RESUMO DE QUALIFICAÇÕES
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      •	Profissional com experiência na área de Marketing e Data Science em empresas B2C e B2B nacionais e multinacionais nos segmentos de telecomunicações, bebidas e setor financeiro.
+      •	Vivência nos processos relacionados a melhoria contínua de produtos e preços, segmentação de clientes, ações de vendas e retenção, metodologia ágil, desenvolvimento de software e analytics.
+      •	Conhecimentos sobre marketing, precificação, modelagem de dados, ferramentas de big-data e machine learning
+      •	Conhecimentos em Software: Microsoft Office, SQL Server, SAS Guide, Microsoft Azure, PowerBI, Tableau. Programação: Python, SQL, R, C++, Matlab, SAS, HTML, CSS, VBA.
+      •	Bacharelado em Engenharia Química com minor em Ciência da Computação, pela University of Michigan, com MBA em Gestão de Negócios em Ambientes Digitais, pela ESPM.
+      •	Inglês - Fluente e Espanhol - Avançado.
+
 education:
-    title: Education
+    title: FORMAÇÃO ACADÊMICA
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+      - degree: MBA em Gestão de Negócios em Ambientes Digitais 
+        university: ESPM
+        time: 2017 - 2019
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
+          CR: 9,8/10
+      - degree: Engenharia Química 
+        university: University of Michigan
+        time: 2013 - 2017
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          Minor em Ciência da Computação
+          GPA: 3,4/4– Cum Laude
+
 experiences:
     title: Experiences
     info:
