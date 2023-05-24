@@ -31,30 +31,18 @@ sidebar:
         - idiom: Espanhol
           level: Avançado
 
-    interests:
-      title: Interesses
-      info:
-        - item: Música
-          link:
-
-        - item: Voluntáriado
-          link:
-
-        - item: Viajar
-          link:
-
 career-profile:
-    title: RESUMO DE QUALIFICAÇÕES
+    title: Resumo de Qualificações
     summary: |
-      •	Profissional com experiência na área de Marketing e Data Science em empresas B2C e B2B nacionais e multinacionais nos segmentos de telecomunicações, bebidas e setor financeiro.
-      •	Vivência nos processos relacionados a melhoria contínua de produtos e preços, segmentação de clientes, ações de vendas e retenção, metodologia ágil, desenvolvimento de software e analytics.
-      •	Conhecimentos sobre marketing, precificação, modelagem de dados, ferramentas de big-data e machine learning
-      •	Conhecimentos em Software: Microsoft Office, SQL Server, SAS Guide, Microsoft Azure, PowerBI, Tableau. Programação: Python, SQL, R, C++, Matlab, SAS, HTML, CSS, VBA.
-      •	Bacharelado em Engenharia Química com minor em Ciência da Computação, pela University of Michigan, com MBA em Gestão de Negócios em Ambientes Digitais, pela ESPM.
-      •	Inglês - Fluente e Espanhol - Avançado.
+      -	Profissional com experiência na área de Marketing e Data Science em empresas B2C e B2B nacionais e multinacionais nos segmentos de telecomunicações, bebidas e setor financeiro.
+      -	Vivência nos processos relacionados a melhoria contínua de produtos e preços, segmentação de clientes, ações de vendas e retenção, metodologia ágil, desenvolvimento de software e analytics.
+      -	Conhecimentos sobre marketing, precificação, modelagem de dados, ferramentas de big-data e machine learning
+      -	Conhecimentos em Software: Microsoft Office, SQL Server, SAS Guide, Microsoft Azure, PowerBI, Tableau. Programação: Python, SQL, R, C++, Matlab, SAS, HTML, CSS, VBA.
+      -	Bacharelado em Engenharia Química com minor em Ciência da Computação, pela University of Michigan, com MBA em Gestão de Negócios em Ambientes Digitais, pela ESPM.
+      -	Inglês - Fluente e Espanhol - Avançado.
 
 education:
-    title: FORMAÇÃO ACADÊMICA
+    title: Formação Acadêmica
     info:
       - degree: MBA em Gestão de Negócios em Ambientes Digitais 
         university: ESPM
@@ -69,133 +57,118 @@ education:
           GPA: 3,4/4– Cum Laude
 
 experiences:
-    title: Experiences
+    title: Experiência Profissional
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Consultor Marketing Vivo One
+        time: 04/2021 - Present
+        company: VIVO
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+          Responsável por identificar perfil e comportamentos de empresas de alto potencial.
+          Principais Realizações:
+            -	Identificação de clusters de clientes com Machine Learning (K-Prototypes) e realização de ações por cluster para aquisição de produtos da companhia e rentabilização de clientes da base.
+            -	Implementação de Redes Neurais (Keras) para determinar melhores leads para venda de produtos, gerando mais de R$500 mil em receita mensal recorrente.
+            -	Desenho de Ações de Pricing de produtos buscando competitividade no mercado. 
+            -	Criação de Dashboards para acompanhamento de indicadores.
+
+      - role: Consultor Marketing Fixa Básica
+        time: 04/2019 - 04/2021
+        company: VIVO
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
+          Responsável pela retenção de clientes B2B de Linha Fixa, Banda Larga e Televisão.
+          Principais Realizações: 
+            -	Product Owner - especificação de requisitos de negócio em projeto de reformulação de CRM.
+            -	Implementação de modelo linear generalizado para identificar clientes propensos ao churn, e utilização do modelo para melhoria de ofertas de rentabilização, levando o churn da fibra ótica de 2% para 1% no B2B.
+            -	Prêmio de Reconhecimento da Diretoria de Marketing, por performance com abrangência nacional.
+
+      - role: Trainee - Marketing Fixa Básica
+        time: 10/2017 - 04/2019
+        company: VIVO
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          Responsável pela retenção de clientes B2B de Linha Fixa, Banda Larga e Televisão.
+          Principais Realizações:
+          -	Especificação e desenvolvimento de software para operação de retenção de clientes, com ofertas específicas por cliente, diminuindo o custo da operação em R$100 mil/mês.
+          -	Implementação de modelo linear generalizado em R para identificar clientes propensos ao churn, e utilização do modelo para melhoria de ofertas.
+
+      - role: Estagiário Summer 
+        time: 05/2016 - 09/2016
+        company: ITAÚ UNIBANCO 
+        details: |
+          Estagiário Summer – Área de Produtos Rotativos B2B com foco em Conta Garantida.
+          Principais Realizações:
+          -	Mapeamento da jornada do cliente de Contas Garantidas, impactando estruturas de áreas e metas.
+          -	Análise de variáveis para identificar clientes potenciais para utilização de crédito em conta garantida.
+          -	Realização de testes de elasticidade para otimizar taxas e tarifas.
+
+      - role: Estagiário Summer 
+        time: 06/2015 - 09/2015
+        company: AMBEV - ZX VENTURES
+        details: |
+          Estagiário Summer - Responsável por inovação na área de Craft Beer
+          Principais Realizações:
+          -	Desenvolvimento de processo de inovação acelerado e website de gestão para área de Cervejas Artesanais.
+          -	Desenvolvimento em VBA de modelo automatizado de Business Plan para novas cervejas.
+
 projects:
-    title: Projects
-    intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    title: Certificados
     assignments:
-      - title: Velocity
+      - title: Microsoft Certified - Azure Data Scientist Associate
         link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: "2023"
 
-      - title: DevStudio
+      - title: Google - Princípios Básicos de Marketing Digital
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "2022"
 
-      - title: Tempo
+      - title: IELTS - classificação máxima Cambrige English Scale C2
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: "2021"
 
-      - title: Atom
+      - title: Scrum Foundation Professional Certificate 
         link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        tagline: "2020"
 
-      - title: Delta
+      - title: Microsoft MCSA Exam 70-761 - Querying Data with Transact-SQL 
         link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-oss:
-    title: OSS Contributions
-    intro: >
-      You can list your open source software contributions in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    contributions:
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: "2019"
 
 publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+    title: Organizações
     papers:
-      - title: The Art of Computer Programming
+      - title: Fundação Telefônica Vivo 
         link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+        authors: Comitê Executivo Voluntariado SP 2020
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+      - title: "Brazilian Student Association"
         link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+        authors: Tesoureiro, Presidente e Conselheiro, 2014 - 2017
 
-      - title: A syntax directed compiler for Algol 60
+      - title: OXE - Sociedade de Honra de Engenharia Química
         link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+        authors: Membro
+        
+      - title: AIChE - American Institute of Chemical Engineers
+        link: "#"
+        authors: Membro
+
+      - title: Delta Chi - Fraternidade Social
+        link: "#"
+        authors: Membro
 
 skills:
-    title: Skills &amp; Proficiency
+    title: Habilidades
 
     toolset:
-      - name: Python & Django
-        level: 98%
-
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
+    
+      - name: Resolução de Problemas
         level: 95%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: Comunicação
+        level: 90%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Liderança
+        level: 80%
+
+      - name: Criatividade
+        level: 65%
 
 footer: 
